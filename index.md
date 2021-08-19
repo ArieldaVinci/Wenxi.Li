@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
+title: Wenxi Li
 description: >
-  The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
+  Welcome to Wenxi's website.
 last_modified_at: 2018-08-03
 no_link_title: false 
 no_excerpt: false 
