@@ -14,9 +14,9 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## Education
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+Industrial Engineering and Operations Research, Master of Engineering, UC Berkeley
 {:.lead}
 
 1. this list will be replaced by the toc
