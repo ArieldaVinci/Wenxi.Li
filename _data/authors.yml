@@ -2,12 +2,12 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Wenxi> <Li>
-  email:             <arielliwenxi@gmail.com>
+  name:              Wenxi Li
+  email:             arielliwenxi@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about me:             |
+  about:             |
     I'm a data science professional with with solid machine learning background and business acumen.
     My past research and work experience across multiple fields helped me enhance modeling and analytics skills and build a problem-solving mindset.
   # This photo will be used in the about section
