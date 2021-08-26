@@ -52,9 +52,9 @@ menu:
   - title:             About me
     url:               /About me/
   - title:             Projects
-    url:               /docs/
+    url:               /_projects/
   - title:             More about me
-    url:               /about/
+    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
