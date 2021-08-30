@@ -16,7 +16,7 @@ redirect_from:
 
 ## Skillset
 
-**Data** is what driving the world today, and also what driving my passion. That's why I'm expanding my skillsets around data:
+**Data** is what drives the world today, and also what drives my passion. That's why I'm expanding my skillsets around data:
 
 ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
@@ -27,7 +27,8 @@ redirect_from:
 
 
 ## Experiences
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+{% include features.md %}
 
 <!--posts-->
 
@@ -104,9 +105,7 @@ The PRO version has built-in support for customizable [Tinyletter] newsletter su
 If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
 
 
-## Features
 
-{% include features.md %}
 
 
 ## Comparison
