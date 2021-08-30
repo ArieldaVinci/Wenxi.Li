@@ -16,7 +16,7 @@ redirect_from:
 
 ## Skillset
 
-**Data** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+**Data** is what driving the world today, and also what driving my passion. That's why I'm expanding my skillsets around data:
 
 ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
