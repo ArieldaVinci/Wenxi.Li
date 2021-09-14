@@ -33,6 +33,8 @@ tagline:               Welcome to my website
 # A list of keywords for your blog
 keywords:              []
 
+
+
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
@@ -264,15 +266,13 @@ hydejack:
   hide_last_modified:  false
 
   # Note that dark mode only works in the PRO version of Hydejack.
+
   dark_mode:
-    # Set to `true` to always use the dark theme.
-    always:            false
-
-    # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
-
-    # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    dynamic: true
+    sunrise: 6
+    sunset:  18
+    icon:    true
+    always:  false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
