@@ -53,7 +53,7 @@ menu:
   - title:             Blogs
     url:               /blogs/
   - title:             Projects
-    url:               /_projects/
+    url:               /projects/
   - title:             More about me
     url:               /docs/
 
