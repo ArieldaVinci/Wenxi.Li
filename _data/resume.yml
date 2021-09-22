@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Wenxi Li"
-  label: "Data Scientist"
-  #picture: "https://placehold.it/240x240"
-  email: "arielliwenxi@gmail.com"
-  phone: "(510)-292-1504"
-  #website: "https://piedpiper.com"
+  name: "Richard Hendricks"
+  label: "Programmer"
+  picture: "https://placehold.it/240x240"
+  email: ""
+  phone: "(912) 555-4321"
+  website: "https://piedpiper.com"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
@@ -19,20 +19,23 @@ basics:
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
   location:
-    address: "5607 Silk Tree Dr"
-    postalCode: "MD 20737"
-    city: "Riverdale"
+    address: "2712 Broadway St"
+    postalCode: "CA 94115"
+    city: "San Francisco"
     countryCode: "US"
-    region: "Maryland"
+    region: "California"
   profiles:
+    - network: "Twitter"
+      username: "RHendricksCEO"
+      url: ""
     - network: "LinkedIn"
-      username: "Wenxi Li"
+      username: "Richard Hendricks"
       url: ""
 work:
-  - company: "Blend360"
-    position: "Data Scientist"
-    website: "https://blend360.com"
-    startDate: "April 2021"
+  - company: "Pied Piper"
+    position: "CEO/President"
+    website: "https://piedpiper.com"
+    startDate: "2013-12-01"
     endDate: ""
     summary: >
       Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
