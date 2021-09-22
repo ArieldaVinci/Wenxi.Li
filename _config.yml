@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://hydejack.com
+url:                   https://arieldavinci.github.io/Wenxi.Li/
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -20,7 +20,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Wenxi Li
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Florian Klampfer
-  email:               mail@qwtel.com
+  name:                Wenxi Li
+  email:               arielliwenxi@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             qwtel
 
@@ -359,8 +359,8 @@ google_site_verification: kRoh_csFULhK6lxBJwZOxiWYQpvttOkFj0a3lWwQADc
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-twitter:
-  username:            qwtel
+#twitter:
+#  username:            qwtel
 
 # Used for facebook open graph
 # facebook:
